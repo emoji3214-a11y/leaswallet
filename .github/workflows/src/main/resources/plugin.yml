@@ -1,0 +1,7 @@
+name: LeasWallet
+version: 1.0
+main: me.leas.wallet.LeasWallet
+api-version: '1.21'
+author: Leas
+description: Wallet Plugin
+depend: [Vault]
